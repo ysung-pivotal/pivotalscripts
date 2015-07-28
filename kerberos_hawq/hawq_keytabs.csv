@@ -1,0 +1,18 @@
+xldd4ehwq03.swacorp.com,Hawq User,postgres@PIVOTALHDDEV.SWACORP.COM,postgres.headless.keytab,/etc/security/keytabs,gpadmin,gpadmin,440
+xldd4ehwq04.swacorp.com,Hawq User,postgres@PIVOTALHDDEV.SWACORP.COM,postgres.headless.keytab,/etc/security/keytabs,gpadmin,gpadmin,440
+xldd4edn05.swacorp.com,Hawq User,postgres@PIVOTALHDDEV.SWACORP.COM,postgres.headless.keytab,/etc/security/keytabs,gpadmin,gpadmin,440
+xldd4edn06.swacorp.com,Hawq User,postgres@PIVOTALHDDEV.SWACORP.COM,postgres.headless.keytab,/etc/security/keytabs,gpadmin,gpadmin,440
+xldd4edn07.swacorp.com,Hawq User,postgres@PIVOTALHDDEV.SWACORP.COM,postgres.headless.keytab,/etc/security/keytabs,gpadmin,gpadmin,440
+xldd4edn08.swacorp.com,Hawq User,postgres@PIVOTALHDDEV.SWACORP.COM,postgres.headless.keytab,/etc/security/keytabs,gpadmin,gpadmin,440
+
+xldd4ehwq03.swacorp.com,Hawq Service,postgres/xldd4ehwq03.swacorp.com@PIVOTALHDDEV.SWACORP.COM,postgres.headless.keytab,/etc/security/keytabs,gpadmin,gpadmin,440
+xldd4ehwq04.swacorp.com,Hawq Service,postgres/xldd4ehwq04.swacorp.com@PIVOTALHDDEV.SWACORP.COM,postgres.headless.keytab,/etc/security/keytabs,gpadmin,gpadmin,440
+xldd4edn05.swacorp.com,Hawq Service,postgres/xldd4edn05.swacorp.com@PIVOTALHDDEV.SWACORP.COM,postgres.headless.keytab,/etc/security/keytabs,gpadmin,gpadmin,440
+xldd4edn06.swacorp.com,Hawq Service,postgres/xldd4edn06.swacorp.com@PIVOTALHDDEV.SWACORP.COM,postgres.headless.keytab,/etc/security/keytabs,gpadmin,gpadmin,440
+xldd4edn07.swacorp.com,Hawq Service,postgres/xldd4edn07.swacorp.com@PIVOTALHDDEV.SWACORP.COM,postgres.headless.keytab,/etc/security/keytabs,gpadmin,gpadmin,440
+xldd4edn08.swacorp.com,Hawq Service,postgres/xldd4edn08.swacorp.com@PIVOTALHDDEV.SWACORP.COM,postgres.headless.keytab,/etc/security/keytabs,gpadmin,gpadmin,440
+
+xldd4edn05.swacorp.com,PXF Service,pxf/xldd4edn05.swacorp.com@PIVOTALHDDEV.SWACORP.COM,postgres.headless.keytab,/etc/security/keytabs,gpadmin,gpadmin,440
+xldd4edn06.swacorp.com,PXF Service,pxf/xldd4edn06.swacorp.com@PIVOTALHDDEV.SWACORP.COM,postgres.headless.keytab,/etc/security/keytabs,gpadmin,gpadmin,440
+xldd4edn07.swacorp.com,PXF Service,pxf/xldd4edn07.swacorp.com@PIVOTALHDDEV.SWACORP.COM,postgres.headless.keytab,/etc/security/keytabs,gpadmin,gpadmin,440
+xldd4edn08.swacorp.com,PXFService,pxf/xldd4edn08.swacorp.com@PIVOTALHDDEV.SWACORP.COM,postgres.headless.keytab,/etc/security/keytabs,gpadmin,gpadmin,440

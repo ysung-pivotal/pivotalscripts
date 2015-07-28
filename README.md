@@ -1,3 +1,3 @@
 # pivotalscripts
 
-Kerberos Scripts for PHD3 and Hawk
+Kerberos Scripts for PHD3 and Hawq
